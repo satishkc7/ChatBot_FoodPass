@@ -162,6 +162,7 @@ Groq/
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
+5. Ensure all tests pass before requesting a review
 
 ## License
 
