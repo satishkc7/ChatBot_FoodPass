@@ -166,4 +166,8 @@ Groq/
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+Built with [Groq](https://groq.com), [LangChain](https://langchain.com), and [Streamlit](https://streamlit.io).
