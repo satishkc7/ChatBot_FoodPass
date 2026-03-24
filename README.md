@@ -1,4 +1,4 @@
-# FoodPass Chatbot
+# FoodPass Chatbot 🍔
 
 A conversational AI chatbot built with Streamlit and Groq that provides information about the FoodPass investment offering on StartEngine.
 
